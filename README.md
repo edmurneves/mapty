@@ -1,3 +1,3 @@
 # Mapty Project
 
-Log the workout with Geolocalizations
+Log the workout with Geolocalizations for you!
