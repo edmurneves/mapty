@@ -318,4 +318,8 @@ class App {
 
 const app = new App();
 
-console.log('Hello');
+const newFeature = function () {
+  console.log('New Feature');
+};
+
+newFeature();
