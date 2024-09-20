@@ -317,9 +317,3 @@ class App {
 }
 
 const app = new App();
-
-const newFeature = function () {
-  console.log('New Feature');
-};
-
-newFeature();
